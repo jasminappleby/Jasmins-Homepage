@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    background-image: url('imgs/tropical.jpg');
+}
+
+main {
+    padding: 20px
+}
+
+/* styles specifically for screens less than 768px (most mobiles) */  
+
+@media only screen and (max-width: 768px) {
+
+    header {
+        background-color: #446342de;
+        font-weight: bolder;
+        padding: 25px;
+        text-align: center;
+    }
+
+    .bordered-section {
+        background-color: #446342de;
+        border-radius: 15px;
+    }
+
+}
