@@ -33,6 +33,11 @@ main {
         border-radius: 15px;
     }
 
-
+    footer {
+        background-color: #446342de;
+        font-weight: bolder;
+        padding: 5px;
+        text-align: center;
+    }
 
 }
