@@ -1,48 +1,4 @@
-/* styles specifically for screens less than 768px (most mobiles) */  
-
-@media only screen and (max-width: 768px) {
-
-    header {
-        background-color: #446342de;
-        font-weight: bolder;
-        padding: 25px;
-        text-align: center;
-    }
-
-    .selfie {
-        width: 100px;
-        height: 100px;
-        object-fit: cover;
-        border-radius: 50%;
-    }
-
-    .bordered-section {
-        background-color: #a9c1a7de;
-        border-radius: 15px;
-    }
-
-    footer {
-        background-color: #446342de;
-        font-weight: bolder;
-        padding: 5px;
-        text-align: center;
-    }
-
-}
-
 /* Desktop styling */
-
-* {
-    box-sizing: border-box;
-}
-  
-body {
-    background-image: url('imgs/foliage.jpg');
-}
-
-main {
-    padding: 20px
-}
 
 header {
     background-color: #446342de;
@@ -80,3 +36,51 @@ footer {
     padding: 5px;
     text-align: center;
 }
+
+
+/* styles specifically for screens less than 768px (most mobiles) */  
+
+@media only screen and (max-width: 768px) {
+
+    header {
+        background-color: #446342de;
+        font-weight: bolder;
+        padding: 25px;
+        text-align: center;
+    }
+
+    .selfie {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+
+    .bordered-section {
+        background-color: #a9c1a7de;
+        border-radius: 15px;
+    }
+
+    footer {
+        background-color: #446342de;
+        font-weight: bolder;
+        padding: 5px;
+        text-align: center;
+    }
+
+}
+
+/* General styling */
+
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    background-image: url('imgs/foliage.jpg');
+}
+
+main {
+    padding: 20px
+}
+
