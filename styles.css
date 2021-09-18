@@ -3,7 +3,7 @@
 }
   
 body {
-    background-image: url('imgs/tropical.jpg');
+    background-image: url('imgs/foliage.jpg');
 }
 
 main {
@@ -21,9 +21,18 @@ main {
         text-align: center;
     }
 
+    .selfie {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+
     .bordered-section {
-        background-color: #446342de;
+        background-color: #a9c1a7de;
         border-radius: 15px;
     }
+
+
 
 }
