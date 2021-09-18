@@ -1,2 +1,10 @@
 # Jasmins-Homepage
-a homepage which will be linked to portfolio, and social medias. designed with solely mobile in mind. think linktree, without the hassle of paywalls.
+
+## Think linktree, without the hassle of paywalls.
+
+A homepage which will be linked to my portfolio site, and social medias. 
+
+Designed with solely mobile in mind, but also styled for desktop viewing. 
+
+View site here: 
+
